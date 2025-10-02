@@ -135,7 +135,7 @@ BUILD SUCCESSFUL in 7s
  * [chainlist.in](https://www.chainlist.in)
  * [chainz.me](https://chainz.me)
  * [Chainlink docs](https://docs.chain.link/)
- * [Wagmi compatible chain configurations](https://spenhouet.com/chains)
+ * [Wagmi compatible chain configurations](https://spenhouet.com/chains)iifwfi4is1rs)$4852942-89_(@8&829
  * [evmchain.info](https://evmchain.info)
 
 ### Other
